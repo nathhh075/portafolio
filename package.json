@@ -1,6 +1,6 @@
 {
-  "name": "my-one",
-  "private": true,
+  "name": "portafolio",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "homepage": "https://<nathhh075>.github.io/<nathh>"
   },
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.15",
