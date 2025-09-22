@@ -3,12 +3,12 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://nathhh075.github.io/portafolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-    "homepage": "https://nathhh075.github.io/portafolio/"
   },
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.15",
